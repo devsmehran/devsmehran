@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devsmehran
-- 👀 I’m interested in developing mobile and web applications 
-- 🌱 I’m currently learning flutter
+- 👀 I’m a pharmacist and interested in bioinformatic , simulating biology, crypto market and AGI for curing all diseases.     
+  
 
 
 
